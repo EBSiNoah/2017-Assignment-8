@@ -5,4 +5,4 @@ ex) Student Number: 2017XXXXXX
 Name: Gildong Hong
 
 Student Number:  2016726054
-Name: KimYoungBin
+Name: KimYeoungBean
